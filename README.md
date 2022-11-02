@@ -15,7 +15,7 @@
 * 基础
   * [Android Studio 环境搭建](content/BASIC_IDE.md)
   * [第一个工程](content/BASIC_FIRST.md)
-  * [工程目录](content/BASIC_PROJECT_STRUCT.md)
+  * [工程目录说明](content/BASIC_PROJECT_STRUCT.md)
 
 * 常用控件
   * [控件 View](#待完成)

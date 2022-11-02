@@ -19,6 +19,9 @@ Android 开发环境
 ```
 可以在 `Tools` 菜单中点击 `Device Manager` 安装模拟器
 
+## 下一步
+可以跳转到 [第一个工程](content/BASIC_FIRST.md) 进行创建工程
+
 ## 常用快捷键
 
 * 操作
